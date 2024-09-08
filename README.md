@@ -28,4 +28,4 @@ Greenio - inspiration for the texture in 1-1
 
 Nintendo - for original game
 
-XKoop7321 - a bit of inspiration 
+Sunrise Of August Team - a bit of inspiration 

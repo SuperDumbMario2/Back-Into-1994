@@ -20,6 +20,8 @@ TCRF - Info to make my "Beta Models" tweak
 
 TNT64 - Assets are taken from their greenio recreation
 
+Greenio - some hud assets
+
 Special thanks:
 
 Greenio - inspiration for the texture in 1-1

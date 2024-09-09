@@ -1,0 +1,9 @@
+newmtl _0
+kd 1 1 1
+map_kd THE MUSHROOM\_0.png
+newmtl _1
+kd 1 1 0.788235294117647
+map_kd THE MUSHROOM\_1.png
+newmtl _2
+kd 1 1 1
+map_kd THE MUSHROOM\_2.png

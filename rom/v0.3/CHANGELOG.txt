@@ -1,0 +1,7 @@
+********** Back Into 1994 Changelog **********
+Version 0.3
+Improved 1-2
+Added 1-3
+Added Rainbow Cap (Starman)
+Changed start lives from 4 to 2
+Fix Death Warps

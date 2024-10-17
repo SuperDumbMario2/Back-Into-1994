@@ -1,0 +1,101 @@
+# Blender MTL File: '1-4_col.blend'
+# Material Count: 11
+
+newmtl None
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd coral.png
+
+newmtl None_ULTRA_64_DEMO#1E82F06D#2#1#AE68E014_ciByRGBA.png
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd ULTRA 64 DEMO#1E82F06D#2#1#AE68E014_ciByRGBA.png
+
+newmtl None_ULTRA_64_DEMO#1E82F06D#2#1#AE68E014_ciByRGBA.png.001
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd ULTRA 64 DEMO#1E82F06D#2#1#AE68E014_ciByRGBA.png
+
+newmtl None_ULTRA_64_DEMO#1E82F06D#2#1#AE68E014_ciByRGBA.png.002
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd ULTRA 64 DEMO#1E82F06D#2#1#AE68E014_ciByRGBA.png
+
+newmtl None_ULTRA_64_DEMO#1E82F06D#2#1#AE68E014_ciByRGBA.png.003
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd ULTRA 64 DEMO#1E82F06D#2#1#AE68E014_ciByRGBA.png
+
+newmtl None_coral.png.001
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd coral.png
+
+newmtl None_coral.png.002
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd coral.png
+
+newmtl None_coral.png.003
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd coral.png
+
+newmtl None_coral.png.004
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd coral.png
+
+newmtl None_flag.png
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd flag.png
+
+newmtl None_pole.png
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd pole.png

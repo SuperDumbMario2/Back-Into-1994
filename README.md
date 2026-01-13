@@ -6,6 +6,8 @@ You are on the Back Into 1994 repository. It is a WIP hack made to look like the
 
 If you want to contribute, make an issue about that.
 
+And I wanna disable long jumps and backflips
+
 # Credits
 
 The hack itself:

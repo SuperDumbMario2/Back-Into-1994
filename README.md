@@ -1,10 +1,12 @@
 # Back Into 1994
 
-*my vision of 1994 build.*
+**my vision of 1994 build.**
 
 You are on the Back Into 1994 repository. It is a WIP hack made to look like the 1994 build.
 
 If you want to contribute, make an issue about that.
+
+To download, please head to Releases tab, but all versions are prereleases right now
 
 # Credits
 

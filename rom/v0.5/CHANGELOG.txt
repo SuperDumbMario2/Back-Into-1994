@@ -1,5 +1,0 @@
-********** Back Into 1994 Changelog **********
-Version 0.5
-Added a better power meter.
-Added the black fadeout tweak.
-Added 2-1
